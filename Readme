@@ -1,2 +1,5 @@
 Readme v 1
-TBD
+
+The Cyclistic case study was an option for the end-of-course Capstone in the Google Data Analytics Course at Coursera. Having completed the course but feeling dissatisfied with my initial crack at the Cyclistic case study, I ran the case study through Claude for comparison.
+
+Claude delivered a comprehensive, professional deck and annotated notebook in about half an hour. On a first read, it all looks plausible and the insights are what one would expect, like casual riders spiking in warmer months. It pulled different data than I did in my first try and verification would require going through my old case study and finding online answers. And it would still only be spot-check verification.
